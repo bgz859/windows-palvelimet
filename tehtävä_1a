@@ -6,3 +6,6 @@ Tehtäväksi anto oli asentaa windows palvelimeen Hyper-V Manager ja luoda mää
 Avasin azurelabista windows palvelimen ja aloin töihin. Kun Windows palvelin oli auennut, avasin moodlesta ohjeet ja aloin töihin.
 
 Kun palvelin oli auennut, ohjeiden ensinmäinen kohta oli "Klikkaa työpöydälläsi näkyvää kuvaketta Install hyper-V". Yllätyksekseni olin ilmeisesti edellisellä tunnilla ollut turhan innokas ja suorittanut asennuksen jo.
+Sen jälkeen asennettin Hyper-V pohjainen virtuaalikytkin. Tälle annettiin nimeksi HyperVVSwitch. 
+
+
